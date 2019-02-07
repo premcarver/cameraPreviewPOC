@@ -1,6 +1,8 @@
 {
   "name": "cameraPreviewPOC",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "d442e8ca"
 }
